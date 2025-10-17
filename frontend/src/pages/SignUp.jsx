@@ -14,7 +14,7 @@ const SignUp = () => {
   const handleSignUp = () => navigate("/profile");
 
   return (
-    <div className="min-h-screen w-full bg-[#F7F8F9] flex flex-col justify-start items-center px-4 pt-4 font-[Poppins]">
+    <div className="min-h-screen w-full bg-[#f7f8f9] min-h-screen flex flex-col justify-start items-center px-4 pt-4 font-[Poppins]">
       <div className="w-full max-w-xs">
         <h1 className="text-3xl font-semibold text-[#1D2226] mb-8">
           Create your <br /> PopX account

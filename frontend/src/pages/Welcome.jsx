@@ -3,8 +3,7 @@ import { Link } from "react-router-dom";
 
 const Welcome = () => {
   return (
-    <div className="min-h-screen w-full bg-[#F7F8F9] flex flex-col justify-end items-center px-4 pb-8 font-[Poppins]">
-      {/* Main content block pinned to bottom */}
+    <div className="min-h-screen w-full bg-[#f7f8f9] flex flex-col justify-end items-center px-4 pb-8">
       <div className="w-full max-w-xs">
         <h1 className="text-2xl font-bold text-[#1D2226] mb-1">
           Welcome to PopX
